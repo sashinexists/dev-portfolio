@@ -78,16 +78,16 @@ head :
 head static =
     Seo.summary
         { canonicalUrlOverride = Nothing
-        , siteName = "elm-pages"
+        , siteName = "Sashin Dev"
         , image =
-            { url = Pages.Url.external "TODO"
-            , alt = "elm-pages logo"
+            { url = Pages.Url.external "/assets/images/seo-image.png"
+            , alt = "Sashin Dev"
             , dimensions = Nothing
             , mimeType = Nothing
             }
-        , description = "TODO"
+        , description = "Crafting Software that just works"
         , locale = Nothing
-        , title = "TODO title" -- metadata.title -- TODO
+        , title = "Sashin Dev — " ++ (Maybe.withDefault { title = "Not found", tags = [], content = "404", slug = "error", createdAt = "Never" } <| List.head <| static.data).title -- metadata.title -- TODO
         }
         |> Seo.website
 

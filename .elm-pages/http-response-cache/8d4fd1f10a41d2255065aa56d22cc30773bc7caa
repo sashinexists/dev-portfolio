@@ -1,0 +1,924 @@
+{
+  "sys": {
+    "type": "Array"
+  },
+  "total": 10,
+  "skip": 0,
+  "limit": 100,
+  "items": [
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "gh3negosphjh"
+          }
+        },
+        "id": "6bKrX7FBBY2l25EgQiYxLf",
+        "type": "Entry",
+        "createdAt": "2022-09-23T19:40:16.423Z",
+        "updatedAt": "2022-10-04T20:36:37.019Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "skill"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Ghost",
+        "description": "A modern CMS",
+        "website": "https://ghost.org",
+        "thumbnail": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "3wooJHrP3MCDefw3fhRNsM"
+          }
+        },
+        "about": "Will write more about Ghost and why I like it here",
+        "slug": "ghost"
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "gh3negosphjh"
+          }
+        },
+        "id": "2mzLVJaEUngQKXuhz0oNNH",
+        "type": "Entry",
+        "createdAt": "2022-09-24T01:20:12.156Z",
+        "updatedAt": "2022-10-04T20:36:54.889Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "skill"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Obsidian",
+        "description": "Personal Knowledge Management software and Markdown editor",
+        "website": "https://obsidian.md/",
+        "thumbnail": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "7zEfumNLyDfjORdHBw8hyJ"
+          }
+        },
+        "about": "Write about your relationship to obsidian here",
+        "slug": "obsidian"
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "gh3negosphjh"
+          }
+        },
+        "id": "6WURhQ77sdegjp3fJKqhwb",
+        "type": "Entry",
+        "createdAt": "2022-09-24T01:33:24.888Z",
+        "updatedAt": "2022-10-04T20:37:13.945Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "skill"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "GitHub",
+        "description": "A repository to store git projects",
+        "website": "https://github.com",
+        "thumbnail": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "16TO4CiPYfCDPBY0gAaF4R"
+          }
+        },
+        "about": "Write about github a bit here",
+        "slug": "github"
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "gh3negosphjh"
+          }
+        },
+        "id": "7L4zUCLznLUfHsYp1eAmvj",
+        "type": "Entry",
+        "createdAt": "2022-09-24T01:31:55.297Z",
+        "updatedAt": "2022-10-04T20:37:26.188Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "skill"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Git",
+        "description": "Version Control System",
+        "website": "https://git-scm.com/",
+        "thumbnail": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "iwOZi8IQNEx5Sew5G7mz5"
+          }
+        },
+        "about": "Write about what you know about git",
+        "slug": "git"
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "gh3negosphjh"
+          }
+        },
+        "id": "77g9U7tWWWUDlgeXK2HRJh",
+        "type": "Entry",
+        "createdAt": "2022-09-24T01:30:21.319Z",
+        "updatedAt": "2022-10-04T20:37:46.293Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "skill"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "SQLite",
+        "description": "For smaller projects ",
+        "website": "https://www.sqlite.org/index.html",
+        "thumbnail": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "23btr98j1koyMoKLvG4yGj"
+          }
+        },
+        "about": "Write a bit about when and how you would use SQLite",
+        "slug": "sqlite"
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "gh3negosphjh"
+          }
+        },
+        "id": "22LKed1x9yzc6N28CJkn02",
+        "type": "Entry",
+        "createdAt": "2022-09-24T01:28:01.682Z",
+        "updatedAt": "2022-10-04T20:38:04.808Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "skill"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "PostgreSQL",
+        "description": "Databases",
+        "website": "https://www.postgresql.org/",
+        "thumbnail": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "55wnoR68dkoW4tImIjyqN1"
+          }
+        },
+        "about": "Write a little about how familiar you are with postgres and why you use it",
+        "slug": "postgresql"
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "gh3negosphjh"
+          }
+        },
+        "id": "6E8yI7ijKbnEAg0zKvNNxk",
+        "type": "Entry",
+        "createdAt": "2022-09-24T01:25:04.705Z",
+        "updatedAt": "2022-10-04T20:38:17.614Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "skill"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Sass",
+        "description": "CSS Precompiler",
+        "website": "https://sass-lang.com/",
+        "thumbnail": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "6ApNMKOxqamQ2X3rO5ft7q"
+          }
+        },
+        "about": "Write a little about SASS here",
+        "slug": "sass"
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "gh3negosphjh"
+          }
+        },
+        "id": "6294E8Sr7qfDS2MYUe97S3",
+        "type": "Entry",
+        "createdAt": "2022-09-24T01:19:01.181Z",
+        "updatedAt": "2022-10-04T20:38:29.774Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "skill"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Iced",
+        "description": "Iced.rs is a GUI framework for Rust inspired by Elm",
+        "website": "https://iced.rs/",
+        "thumbnail": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "3NumEWeFmtmAKHvYLGsYuG"
+          }
+        },
+        "about": "Will talk a little about my journey to find iced, what I like and what I don't like about it",
+        "slug": "iced"
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "gh3negosphjh"
+          }
+        },
+        "id": "3xVBE1BL2V1ASp9CNpcYJn",
+        "type": "Entry",
+        "createdAt": "2022-09-24T01:04:41.881Z",
+        "updatedAt": "2022-10-04T20:38:47.500Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "skill"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Rust",
+        "description": "High level Developer Ergonomics, Low Level Performance",
+        "website": "https://www.rust-lang.org/",
+        "thumbnail": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "78vMryoFxK8xqp97jhAVW5"
+          }
+        },
+        "about": "Will talk about Rust and why I like it here",
+        "slug": "rust"
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "gh3negosphjh"
+          }
+        },
+        "id": "2eCGvezShIj7wZsk5gHdtB",
+        "type": "Entry",
+        "createdAt": "2022-09-24T00:59:34.234Z",
+        "updatedAt": "2022-10-04T20:40:32.005Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "skill"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Elm",
+        "description": "A functional programming language used to create front-end web apps",
+        "website": "https://elm-lang.org/",
+        "thumbnail": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "1KYcS2PaGv2WunCHbRZPSb"
+          }
+        },
+        "about": "Elm pages is my go to tool for writing static site websites.",
+        "slug": "elm"
+      }
+    }
+  ],
+  "includes": {
+    "Asset": [
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "gh3negosphjh"
+            }
+          },
+          "id": "16TO4CiPYfCDPBY0gAaF4R",
+          "type": "Asset",
+          "createdAt": "2022-09-24T01:33:08.097Z",
+          "updatedAt": "2022-09-29T00:58:44.612Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "revision": 2,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "GitHub Logo",
+          "description": "GitHub Logo SVG",
+          "file": {
+            "url": "//images.ctfassets.net/gh3negosphjh/16TO4CiPYfCDPBY0gAaF4R/3d1f20de9fcfdc301cb110833511e4db/image_5_.svg",
+            "details": {
+              "size": 1627,
+              "image": {
+                "width": 17,
+                "height": 16
+              }
+            },
+            "fileName": "image(5).svg",
+            "contentType": "image/svg+xml"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "gh3negosphjh"
+            }
+          },
+          "id": "1KYcS2PaGv2WunCHbRZPSb",
+          "type": "Asset",
+          "createdAt": "2022-09-24T00:58:43.326Z",
+          "updatedAt": "2022-09-24T00:58:43.326Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Elm Logo",
+          "description": "The Elm Logo SVG",
+          "file": {
+            "url": "//images.ctfassets.net/gh3negosphjh/1KYcS2PaGv2WunCHbRZPSb/a8157da9a31bfe9c1fd6ee3c6c613ee8/elm.svg",
+            "details": {
+              "size": 659,
+              "image": {
+                "width": 128,
+                "height": 128
+              }
+            },
+            "fileName": "elm.svg",
+            "contentType": "image/svg+xml"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "gh3negosphjh"
+            }
+          },
+          "id": "23btr98j1koyMoKLvG4yGj",
+          "type": "Asset",
+          "createdAt": "2022-09-24T01:30:02.599Z",
+          "updatedAt": "2022-09-24T01:30:02.599Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Sqlite logo",
+          "description": "sqlite logo",
+          "file": {
+            "url": "//images.ctfassets.net/gh3negosphjh/23btr98j1koyMoKLvG4yGj/149545cff2e4818fe36fa590100733c8/sqlite.svg",
+            "details": {
+              "size": 1876,
+              "image": {
+                "width": 12,
+                "height": 26
+              }
+            },
+            "fileName": "sqlite.svg",
+            "contentType": "image/svg+xml"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "gh3negosphjh"
+            }
+          },
+          "id": "3NumEWeFmtmAKHvYLGsYuG",
+          "type": "Asset",
+          "createdAt": "2022-09-24T01:18:35.004Z",
+          "updatedAt": "2022-09-29T00:29:39.157Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "revision": 2,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Iced rs logo",
+          "description": "Svg logo for Iced RS",
+          "file": {
+            "url": "//images.ctfassets.net/gh3negosphjh/3NumEWeFmtmAKHvYLGsYuG/49aa6c91f7205af6393d80a103000ab9/iced.svg",
+            "details": {
+              "size": 3166,
+              "image": {
+                "width": 170,
+                "height": 180
+              }
+            },
+            "fileName": "iced.svg",
+            "contentType": "image/svg+xml"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "gh3negosphjh"
+            }
+          },
+          "id": "3wooJHrP3MCDefw3fhRNsM",
+          "type": "Asset",
+          "createdAt": "2022-09-29T00:21:15.937Z",
+          "updatedAt": "2022-09-29T00:21:15.937Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Ghost",
+          "description": "Ghost logo",
+          "file": {
+            "url": "//images.ctfassets.net/gh3negosphjh/3wooJHrP3MCDefw3fhRNsM/b7e6c868ff0363300c0257b4ff85df17/ghost.png",
+            "details": {
+              "size": 30526,
+              "image": {
+                "width": 287,
+                "height": 293
+              }
+            },
+            "fileName": "ghost.png",
+            "contentType": "image/png"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "gh3negosphjh"
+            }
+          },
+          "id": "55wnoR68dkoW4tImIjyqN1",
+          "type": "Asset",
+          "createdAt": "2022-09-24T01:27:58.114Z",
+          "updatedAt": "2022-09-24T01:27:58.114Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "PostgresLogo",
+          "description": "Postgres SVG",
+          "file": {
+            "url": "//images.ctfassets.net/gh3negosphjh/55wnoR68dkoW4tImIjyqN1/e5c949ed1ee7b70b7072febf29c3c1f9/postgresql.svg",
+            "details": {
+              "size": 9548,
+              "image": {
+                "width": 128,
+                "height": 128
+              }
+            },
+            "fileName": "postgresql.svg",
+            "contentType": "image/svg+xml"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "gh3negosphjh"
+            }
+          },
+          "id": "6ApNMKOxqamQ2X3rO5ft7q",
+          "type": "Asset",
+          "createdAt": "2022-09-24T01:24:35.811Z",
+          "updatedAt": "2022-09-24T01:24:35.811Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Sass Logo",
+          "description": "Sass Logo SVG",
+          "file": {
+            "url": "//images.ctfassets.net/gh3negosphjh/6ApNMKOxqamQ2X3rO5ft7q/b539494b604f68404327e67cfeaef2ea/sass.svg",
+            "details": {
+              "size": 517,
+              "image": {
+                "width": 512,
+                "height": 512
+              }
+            },
+            "fileName": "sass.svg",
+            "contentType": "image/svg+xml"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "gh3negosphjh"
+            }
+          },
+          "id": "78vMryoFxK8xqp97jhAVW5",
+          "type": "Asset",
+          "createdAt": "2022-09-24T01:04:16.848Z",
+          "updatedAt": "2022-09-24T01:04:16.848Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Rust Logo",
+          "description": "Rust logo orange svg",
+          "file": {
+            "url": "//images.ctfassets.net/gh3negosphjh/78vMryoFxK8xqp97jhAVW5/03e0ee00a163d3dcf12a54732d8f33cf/rust.svg",
+            "details": {
+              "size": 7906,
+              "image": {
+                "width": 288,
+                "height": 288
+              }
+            },
+            "fileName": "rust.svg",
+            "contentType": "image/svg+xml"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "gh3negosphjh"
+            }
+          },
+          "id": "7zEfumNLyDfjORdHBw8hyJ",
+          "type": "Asset",
+          "createdAt": "2022-09-24T01:20:06.617Z",
+          "updatedAt": "2022-09-24T01:20:06.617Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Obsidian Logo",
+          "description": "Obsidian Logo",
+          "file": {
+            "url": "//images.ctfassets.net/gh3negosphjh/7zEfumNLyDfjORdHBw8hyJ/9d4929d1b86268727514b73abbedf628/obsidian.svg",
+            "details": {
+              "size": 1077,
+              "image": {
+                "width": 30,
+                "height": 30
+              }
+            },
+            "fileName": "obsidian.svg",
+            "contentType": "image/svg+xml"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "gh3negosphjh"
+            }
+          },
+          "id": "iwOZi8IQNEx5Sew5G7mz5",
+          "type": "Asset",
+          "createdAt": "2022-09-24T01:31:33.633Z",
+          "updatedAt": "2022-09-24T01:31:33.633Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Git Logo",
+          "description": "Git Logo SVG",
+          "file": {
+            "url": "//images.ctfassets.net/gh3negosphjh/iwOZi8IQNEx5Sew5G7mz5/3ba6f44928271abad76a68d4f7b2723a/git.svg",
+            "details": {
+              "size": 828,
+              "image": {
+                "width": 128,
+                "height": 128
+              }
+            },
+            "fileName": "git.svg",
+            "contentType": "image/svg+xml"
+          }
+        }
+      }
+    ]
+  }
+}

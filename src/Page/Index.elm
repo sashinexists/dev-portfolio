@@ -69,12 +69,12 @@ head static =
         { canonicalUrlOverride = Nothing
         , siteName = "Sashin Dev"
         , image =
-            { url = Pages.Url.external "TODO"
-            , alt = "elm-pages logo"
+            { url = Pages.Url.external "/assets/images/seo-image.png"
+            , alt = "Sashin Dev"
             , dimensions = Nothing
             , mimeType = Nothing
             }
-        , description = "TODO"
+        , description = "Crafting Software that just works"
         , locale = Nothing
         , title = "Sashin Dev" -- metadata.title -- TODO
         }

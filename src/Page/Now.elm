@@ -73,16 +73,16 @@ head :
 head static =
     Seo.summary
         { canonicalUrlOverride = Nothing
-        , siteName = "elm-pages"
+        , siteName = "Sashin Dev"
         , image =
-            { url = Pages.Url.external "TODO"
-            , alt = "elm-pages logo"
+            { url = Pages.Url.external "/assets/images/seo-image.png"
+            , alt = "Sashin Dev"
             , dimensions = Nothing
             , mimeType = Nothing
             }
-        , description = "TODO"
+        , description = "Crafting Software that just works"
         , locale = Nothing
-        , title = "TODO title" -- metadata.title -- TODO
+        , title = "Sashin Dev — Now" -- metadata.title -- TODO
         }
         |> Seo.website
 
@@ -164,10 +164,10 @@ viewNode node =
                     Element.html (Html.Parser.nodeToHtml (Html.Parser.Element tag (attributes ++ [ ( "style", "text-align:left;" ) ]) children))
 
                 "figure" ->
-                    Element.html (Html.Parser.nodeToHtml (Html.Parser.Element tag (attributes ++ [ ( "style", "padding:20px;background-color: #1f1f1f;border-radius:10px;" ) ]) children))
+                    Element.html (Html.Parser.nodeToHtml (Html.Parser.Element tag (attributes ++ [ ( "style", "padding:20px;background-color: #1f1f1f;border-radius:10px;max-width:100%;" ) ]) children))
 
                 "img" ->
-                    Element.html (Html.Parser.nodeToHtml (Html.Parser.Element tag (attributes ++ [ ( "style", "border-radius:10px; width:100%; object-fit:cover;" ) ]) children))
+                    Element.html (Html.Parser.nodeToHtml (Html.Parser.Element tag (attributes ++ [ ( "style", "border-radius:10px; width:100%; object-fit:cover;max-width:100%;" ) ]) children))
 
                 "hr" ->
                     thematicBreak
@@ -176,7 +176,7 @@ viewNode node =
                     copy (Element.paragraph [] (List.map (\child -> Element.html (Html.Parser.nodeToHtml child)) children))
 
                 _ ->
-                    Element.html (Html.Parser.nodeToHtml (Html.Parser.Element tag [] children))
+                    Element.html (Html.Parser.nodeToHtml (Html.Parser.Element tag [ ( "style", "max-width:100%;" ) ] children))
 
         Html.Parser.Text content ->
             Element.paragraph [] [ Element.html (Html.Parser.nodeToHtml (Html.Parser.Text content)) ]
@@ -249,7 +249,7 @@ viewPhoneNode node =
                     Element.html (Html.Parser.nodeToHtml (Html.Parser.Element tag (attributes ++ [ ( "style", "padding:20px;background-color: #1f1f1f;border-radius:10px;max-width:100%;display:none;" ) ]) children))
 
                 "img" ->
-                    Element.html (Html.Parser.nodeToHtml (Html.Parser.Element tag (attributes ++ [ ( "style", "border-radius:10px; width:100%; object-fit:cover;max-width:100%;" ), ( "width", "100%" ) ]) children))
+                    Element.html (Html.Parser.nodeToHtml (Html.Parser.Element tag (attributes ++ [ ( "style", "border-radius:10px; width:100%; object-fit:cover;max-width:100%;" ) ]) children))
 
                 "hr" ->
                     thematicBreak
